@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Employee Data Protection Act",
+    "keywords": ["data", "confidentiality", "privacy"],
+    "remove_keywords": ["share employee records", "third parties", "data sharing"],
+    "required_clause": "The Company shall protect all Employee Personal Data and shall not disclose or share such information with any third party without the employee’s prior written consent, unless legally required. Personal data must be stored securely, accessed only for legitimate business purposes, and safeguarded against unauthorized use. Employees will be notified of any significant data breach."
+  },
+  {
+    "id": 2,
+    "title": "Workplace Equal Opportunity Regulation",
+    "keywords": ["equal opportunity", "discrimination", "fair hiring"],
+    "remove_keywords": ["biased hiring", "discriminatory terms"],
+    "required_clause": "The Employer guarantees equal opportunity in all employment decisions and prohibits discrimination based on gender, ethnicity, race, disability, or any protected characteristic. All employees must be treated fairly and respectfully. Complaints of discrimination will be investigated promptly and without retaliation, and corrective action will be taken when necessary. The Employer shall maintain policies supporting equal and fair workplace practices."
+  }
+]
